@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+html, body, [class*="css"] {
+    font-family: 'Montserrat', 'Helvetica', 'Arial', 'sans-serif';
+  }
+
+html, body, [class*="css-hxt7ib e1fqkh3o4"] {
+        color: #DCE3E5;
+        #line-height: 1.2rem;
+      }
+
+html, body, [class*="css-81oif8"] {
+        color: #DCE3E5;
+        font-size: 12px;
+        #line-height: 0.5rem;
+            }
